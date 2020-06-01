@@ -7,6 +7,7 @@ public class prgAlbum {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		// A git nuevo
 		
 		// Objetivo: crear un album
 		// que necesito para crear un album? Fotos (16 fotos)
